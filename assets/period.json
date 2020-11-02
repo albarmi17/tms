@@ -1,0 +1,41 @@
+[
+  {
+    "name": "daily",
+    "value": {
+      "data": [
+        {
+          "name": "liburNasional",
+          "value": 12
+        },
+        {
+          "name": "liburAdditional",
+          "value": 2
+        },
+        {
+          "name": "liburAkhirMinggu",
+          "value": 104
+        },
+        {
+          "name": "cuti",
+          "value": 12
+        },
+        {
+          "name": "permit",
+          "value": 5
+        }
+      ]
+    }
+  },
+  {
+    "name": "weekly",
+    "value": 52
+  },
+  {
+    "name": "monthly",
+    "value": 12
+  },
+  {
+    "name": "annualy",
+    "value": 1
+  }
+]
